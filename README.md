@@ -52,6 +52,6 @@ Modify a line item
 <img src="https://user-images.githubusercontent.com/71997310/195459958-0a36a234-d22e-40f6-bc22-4625deae3be0.PNG" width="200"/>
 
 ### Summary View
-
 Get a quick snapshot of the file calculations in easy to screenshot and email format by tapping the "Show Summary" button
+
 <img src="https://user-images.githubusercontent.com/71997310/195459959-32df40ee-abdc-4da0-a307-d648c4c94f6f.PNG" width="200"/>
